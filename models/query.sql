@@ -1,2 +1,1 @@
-select 'HELLO';
-
+seleccct 'hello';
