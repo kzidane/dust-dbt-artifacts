@@ -9,6 +9,8 @@ test-paths: ["tests"]
 data-paths: ["data"]
 macro-paths: ["macros"]
 
+extra_line
+
 target-path: "target"
 clean-targets:
   - "target"
